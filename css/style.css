@@ -1,4 +1,7 @@
 /* Colores formulario */
+h1{
+    color: blue;
+}
 legend{
     background-color: red;
     color: white;
