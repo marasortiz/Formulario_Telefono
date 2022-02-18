@@ -1,0 +1,14 @@
+/* Colores formulario */
+legend{
+    background-color: red;
+    color: white;
+}
+fieldset{
+    background-color: aqua;
+}
+input{
+    background-color: yellow;
+}
+.boton{
+    background-color: hotpink;
+}
